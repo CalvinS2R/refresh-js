@@ -1,0 +1,12 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "My New Project description.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/CalvinS2R/refresh-js/",
+    "type": "github"
+  },
+  "author": "Calvin S",
+  "license": "GNU"
+}
